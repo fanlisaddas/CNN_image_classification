@@ -20,5 +20,3 @@ main.py：定义超参数，模型训练和测试。
 参考：
 
 https://pytorch.org/tutorials
-
-https://blog.csdn.net/weixin_41529093/article/details/111354381
